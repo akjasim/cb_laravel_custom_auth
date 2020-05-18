@@ -13,6 +13,9 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
@@ -119,6 +122,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -147,7 +151,7 @@
       <updated>1589439621682</updated>
       <workItem from="1589439629405" duration="1647000" />
       <workItem from="1589460457299" duration="1190000" />
-      <workItem from="1589778631008" duration="2433000" />
+      <workItem from="1589778631008" duration="2675000" />
     </task>
     <servers />
   </component>
