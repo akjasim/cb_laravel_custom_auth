@@ -1,6 +1,6 @@
 # Laravel Custom Authentication using Username/Phone number
 
-Description.
+Customising the default Email based authentication to a username/phone_number based authentication.
 
 ## Usage
 
